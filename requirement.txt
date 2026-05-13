@@ -1,0 +1,10 @@
+transformers==4.41.2
+ipykernel
+torch
+accelerate
+sentencepiece
+numpy == 1.26.4
+pandas == 2.2.2
+datasets == 2.20.0
+gensim == 4.3.2
+scipy == 1.12.0
